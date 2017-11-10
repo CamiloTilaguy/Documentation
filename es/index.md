@@ -298,4 +298,4 @@
     - [Cambio en las rutas entre versiones:](appendix.md#cambio-en-las-rutas-entre-versiones:)
 - [0.5 => 1.0 beta1](appendix.md#0.5-=>-1.0-beta1)
 - [1.0 beta1 => 1.0 beta2](appendix.md#1.0-beta1-=>-1.0-beta2)
-  - [Glosario](appendix.md#glosario)
+  - [Glosario](appendix.md#glosario) ok
